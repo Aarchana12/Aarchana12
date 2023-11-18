@@ -21,6 +21,14 @@ I'm Aarchana Nichani, an aspiring data scientist and entrepreneur on a journey t
 🔍 **GitHub Profile**
 - [GitHub](https://github.com/Aarchana12)
 
+🌐 **Social Media**
+- [LinkedIn](https://www.linkedin.com/in/aarchana-nichani/)
+- [Instagram](https://www.instagram.com/anar_selenophile/?hl=en)
+- [Twitter](https://twitter.com/archana_nichani)
+
+📊 **Top Languages**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarchana12&layout=compact&hide_border=true)
+
 🌱 **Passionate Learner**
 - Constantly seeking self-improvement and learning from various sources.
 - Motivated by the goal of creating innovative and impactful solutions for society and the environment.
@@ -28,7 +36,7 @@ I'm Aarchana Nichani, an aspiring data scientist and entrepreneur on a journey t
 🤝 **Open to Collaborations**
 - Always open to new challenges and collaborations that align with my aspirations and expand my horizons.
 
-Feel free to connect with me on [LinkedIn](your-linkedin-profile)!
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aarchana-nichani/)!
 
 [![Aarchana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aarchana12&show_icons=true&hide_title=true&hide_border=true)](https://github.com/Aarchana12)
 
