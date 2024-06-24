@@ -3,7 +3,7 @@
 I'm Aarchana Nichani, an aspiring data scientist and entrepreneur on a journey to explore new opportunities and experiences in life.
 
 🎓 **Education**
-- Pursuing a dual degree in Data Science and Applications at Indian Institute of Technology, Madras (IITM) and Information Technology at Panimalar Institute of Technology.
+- Pursuing a double bachelor's degree in Data Science and Applications at Indian Institute of Technology, Madras (IITM) and Information Technology at Panimalar Institute of Technology.
 - Expected Graduation: Oct 2025
 
 💼 **Experience**
@@ -14,12 +14,6 @@ I'm Aarchana Nichani, an aspiring data scientist and entrepreneur on a journey t
 - Web Development: HTML, CSS, JavaScript, PHP
 - Cloud Computing: IBM Cloud, Cloud Application Development
 - Web 3: Explored concepts and technologies
-
-📚 **Certifications**
-- Cloud Computing Certifications from LinkedIn, NPTEL, and Alchemy University.
-
-🔍 **GitHub Profile**
-- [GitHub](https://github.com/Aarchana12)
 
 🌐 **Social Media**
 - [LinkedIn](https://www.linkedin.com/in/aarchana-nichani/)
